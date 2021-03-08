@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TweetyAPI.iml" filepath="$PROJECT_DIR$/.idea/TweetyAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tweetyfront/.idea/tweetyfront.iml" filepath="$PROJECT_DIR$/../tweetyfront/.idea/tweetyfront.iml" />
     </modules>
   </component>
 </project>
